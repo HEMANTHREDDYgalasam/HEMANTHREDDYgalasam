@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **learning full-stack development**
 - 🌱 I’m exploring **Cloud Computing, DevOps, and AI**
 - 💬 Ask me about **Java, Python, Web Development**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **ghemanthredddy499@gmail.com**
 - ⚡ Fun fact: *I love debugging more than writing code 😄*
 
 ---
@@ -43,10 +43,10 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ghemanthreddy499@gmail.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="blank">
+  <a href="https://www.linkedin.com/in/Hemanth Reddy Galasam/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
